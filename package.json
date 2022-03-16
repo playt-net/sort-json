@@ -1,0 +1,20 @@
+{
+  "name": "@playt/sort-json",
+  "version": "1.0.0",
+  "description": "Utility to sort specified json files alphabetically.",
+  "bin": "./sort-json.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "utility",
+    "sort",
+    "script",
+    "json",
+    "JSON",
+    "sorting"
+  ],
+  "author": "@phlgr, @marwinburesch, @lmachens, @matthiasbruns",
+  "license": "MIT",
+  "repository": "https://github.com/playt-net/sort-json"
+}
