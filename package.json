@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Utility to sort specified json files alphabetically.",
   "bin": "./sort-json.mjs",
+  "engines": {
+    "node": ">=14.8"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -16,5 +19,8 @@
   ],
   "author": "@phlgr, @marwinburesch, @lmachens, @matthiasbruns",
   "license": "MIT",
-  "repository": "https://github.com/playt-net/sort-json"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/playt-net/sort-json"
+  }
 }
