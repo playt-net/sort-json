@@ -1,6 +1,6 @@
 {
   "name": "@playt/sort-json",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Utility to sort specified json files alphabetically.",
   "bin": "./sort-json.mjs",
   "engines": {
